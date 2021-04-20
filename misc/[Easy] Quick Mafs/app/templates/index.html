@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+  </head>
+<div class="shade">
+  <div class="blackboard">
+      <form action="{{ url_for('index') }}" method="post">
+      <div class="form">
+        <p>
+            <label name="cor_answers">{{ cor_answers }} </label>
+        </p>
+        <p>
+            <label name="response">{{ response }}</label>
+        </p>
+          <p>
+              <label name="expression">{{ expression }}</label>
+          </p>
+          <p>
+              <label>Answer: </label>
+              <input type="text" name="answer"/>
+          </p>
+          <p class="wipeout">
+              <input type="submit" value="Send" />
+          </p>
+      </div>
+      </form>
+  </div>
+</div>
+</html>

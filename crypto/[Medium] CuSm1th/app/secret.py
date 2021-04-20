@@ -1,0 +1,1 @@
+flag = b'INSSEC{h4stad_Br0adcast_4ttack_iz_pr3tty_c00l}'
