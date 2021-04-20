@@ -1,4 +1,4 @@
-# [__Flipping invitations 🍆💦__](#)
+# [__Flipping invitations 🍆__](#)
 
 ## Description: 
 
