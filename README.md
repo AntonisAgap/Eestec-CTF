@@ -1,2 +1,2 @@
 # Eestec_CTF
-Challenges and solves I made for the Eestec CTF 
+Challenges and solves I created for the EEStech 2021 Hacking competition.
